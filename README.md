@@ -1,2 +1,2 @@
 # Data-Science---Neaural-Networks
-The repository is about all i learn about neaural networks.
+This project harnesses the power of neural networks to accurately classify handwritten digits using the MNIST dataset. Through meticulous training and optimization, the developed model achieves an impressive accuracy rate exceeding 95%. The model's proficiency in recognizing and categorizing digits showcases its robustness in image classification tasks, underlining its effectiveness in this specific domain.
