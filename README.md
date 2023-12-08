@@ -7,7 +7,7 @@ This project harnesses the power of neural networks to accurately classify handw
 
 3.MatplotLib<br>
 
-4.Seaborn****
+4.Seaborn
 ### My Understandings from the Project
 1. How MINST data sets work, what do they consist of ?
 2. How neural networks work in digit recognition
