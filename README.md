@@ -1,13 +1,13 @@
 # Data-Science---Neural-Networks
 This project harnesses the power of neural networks to accurately classify handwritten digits using the MNIST dataset. Through meticulous training and optimization, the developed model achieves an impressive accuracy rate exceeding 95%. The model's proficiency in recognizing and categorizing digits showcases its robustness in image classification tasks, underlining its effectiveness in this specific domain.
 ### Libraries to Install before running this code:
-1.Scikit-Learn
+1.Scikit-Learn<br>
 
-2.Keras
+2.Keras<br>
 
-3.MatplotLib
+3.MatplotLib<br>
 
-4.Seaborn
+4.Seaborn****
 ### My Understandings from the Project
 1. How MINST data sets work, what do they consist of ?
 2. How neural networks work in digit recognition
